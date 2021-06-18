@@ -27,5 +27,5 @@ An example of this application in use is below (I am grateful to all the people 
 a lot of work. There would have been no way I could have done the entire project alone.): 
 
 <div>
-<img src="/_pages/assets/images/DiscordBot.png" width="704" alt="socials1" style="float:left; padding-right:25px;" />
+<img src="/images/DiscordBot.png" width="704" alt="socials1" style="float:left; padding-right:25px;" />
 </div>
