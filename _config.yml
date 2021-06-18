@@ -29,7 +29,8 @@ twitter_username:
 github_username: kbz2001
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 #theme: minima
 
 # Minimal Mistakes Skin
