@@ -29,9 +29,9 @@ twitter_username:
 github_username: kbz2001
 
 # Build settings
-#theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
-theme: minima
+#theme: minima
 
 # Minimal Mistakes Skin
 minimal_mistakes_skin: dark
@@ -40,6 +40,12 @@ include: ["_pages"]
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
