@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-17T19:03:19-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kile’s Website</title><subtitle>Welcome to my website! It's built using Jekyll and is hosted on GitHub Pages. On here you will find information about me and learn about my hobbies, specifically programming.</subtitle><entry><title type="html">Minecraft Mod (Nostalgia)</title><link href="http://localhost:4000/2021/05/22/Minecraft-Mod.html" rel="alternate" type="text/html" title="Minecraft Mod (Nostalgia)" /><published>2021-05-22T15:21:48-05:00</published><updated>2021-05-22T15:21:48-05:00</updated><id>http://localhost:4000/2021/05/22/Minecraft-Mod</id><content type="html" xml:base="http://localhost:4000/2021/05/22/Minecraft-Mod.html">&lt;p&gt;The third project I will talk about is a Minecraft mod I made with one of my friends. Minecraft has a lot of developer support
+making it really easy for programmers to create mods. These mods can change the game in almost any way imaginable.&lt;/p&gt;
+
+&lt;p&gt;We decided to make an extensive mod for a specific Minecraft server that we played on. We chose the name “Nostalgia” because
+it sounded cool. This mod did many things such as track statistics, contained custom commands, had a Discord Rich Presence,
+and changed many aspects of the game graphically. The mod also included holiday specific events. For example, during
+Christmas the player had the option to turn on the song Jingle Bells as background music and allow snow to fall constantly.
+The client also had a custom Discord Rich Presence which showed on Discord that the user was playing our version of the game
+rather than the original.&lt;/p&gt;
+
+&lt;p&gt;This project also allowed me to play around with GUIs. The custom main menu had custom buttons that replaced the original, 
+and we also had a completely separate button window that provided the player with button toggles for all of the mod features.&lt;/p&gt;
+
+&lt;p&gt;Similar to the Discord Bot project, this mod utilized multiple APIs at the same time.&lt;/p&gt;
+
+&lt;p&gt;Below is a comparison between the standard Minecraft main menu, and the custom one we made:&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img src=&quot;/_pages/assets/images/MainMenu_Minceraft.png&quot; width=&quot;854&quot; alt=&quot;mainmenu&quot; style=&quot;float:left; padding-right:25px;&quot; /&gt;
+&amp;nbsp;
+&lt;img src=&quot;/_pages/assets/images/Nostalgia.png&quot; width=&quot;1920&quot; alt=&quot;nostalgiamenu&quot; style=&quot;float:left; padding-right:25px;&quot; /&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">The third project I will talk about is a Minecraft mod I made with one of my friends. Minecraft has a lot of developer support making it really easy for programmers to create mods. These mods can change the game in almost any way imaginable.</summary></entry><entry><title type="html">Discord Bot Project</title><link href="http://localhost:4000/2021/05/20/Discord-Bot.html" rel="alternate" type="text/html" title="Discord Bot Project" /><published>2021-05-20T15:21:48-05:00</published><updated>2021-05-20T15:21:48-05:00</updated><id>http://localhost:4000/2021/05/20/Discord-Bot</id><content type="html" xml:base="http://localhost:4000/2021/05/20/Discord-Bot.html">&lt;p&gt;The second project I will talk about is a Discord bot that I created. For those unfamiliar with Discord read the previous
+post about my Rich Presence project. Another big advantage that Discord gives developers is the ability to easily implement
+a bot on their platform by using their API. Developers can make these bots do a large variety of tasks as long as it’s 
+within the ToS.&lt;/p&gt;
+
+&lt;p&gt;I decided to get very creative by making an extensive bot that interacts with an API from a common game that everyone in
+the Discord server played as well as contain minigames that users in the server can play via the bot. I had a lot of fun
+and learned a lot through completing this project. I learned how to incorporate multiple APIs into a project and figured
+out how to make these APIs interact with each other to execute tasks. Another big thing I learned was hosting an application
+on the cloud. Since these bots need a server to run I found it impractical to host it on my own computer because that would
+require my computer to be on 24/7. I looked into cloud hosting, and it fit the job perfectly. IBM has a generous cloud 
+hosting service that gives developers a free server if the application is small enough. Luckily the Discord bot size was
+within their limits. Through the help of a friend who was much more familiar with cloud hosting I was able to wire up my
+Discord bot onto IBM’s hosting service.&lt;/p&gt;
+
+&lt;p&gt;This was one of the biggest projects that I decided to try as it spanned a variety of different programming concepts. Creating
+an application that provided a service to people, interacting with APIs, and cloud hosting are three things that I believe
+were very important for me to learn to further my programming knowledge.&lt;/p&gt;
+
+&lt;p&gt;An example of this application in use is below (I am grateful to all the people who helped me create this bot as it was
+a lot of work. There would have been no way I could have done the entire project alone.):&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img src=&quot;/_pages/assets/images/DiscordBot.png&quot; width=&quot;704&quot; alt=&quot;socials1&quot; style=&quot;float:left; padding-right:25px;&quot; /&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">The second project I will talk about is a Discord bot that I created. For those unfamiliar with Discord read the previous post about my Rich Presence project. Another big advantage that Discord gives developers is the ability to easily implement a bot on their platform by using their API. Developers can make these bots do a large variety of tasks as long as it’s within the ToS.</summary></entry><entry><title type="html">Discord Rich Presence Project</title><link href="http://localhost:4000/2021/05/18/Discord-Rich-Presence-Project.html" rel="alternate" type="text/html" title="Discord Rich Presence Project" /><published>2021-05-18T15:21:48-05:00</published><updated>2021-05-18T15:21:48-05:00</updated><id>http://localhost:4000/2021/05/18/Discord-Rich-Presence-Project</id><content type="html" xml:base="http://localhost:4000/2021/05/18/Discord-Rich-Presence-Project.html">&lt;p&gt;The first project I will talk about is a Discord rich presence application. For those unfamiliar with Discord, it is a
+social media application that allows you to communicate with other people. It is most similar to Skype except it is a lot
+more customizable. One feature that Discord has is that if you allow it to, Discord will detect what application is currently
+open on your computer and will display it under your account so other people know what you are currently doing. This opens
+up many opportunities for developers as they can create their own custom displays for specific applications.&lt;/p&gt;
+
+&lt;p&gt;I had the idea of creating a rich presence for Google Chrome because I noticed that Discord had very low support for Google 
+Chrome. Through research online I noticed that I wasn’t the first one to come up with a similar idea. All the existing ones 
+didn’t have what I wanted. I decided that instead of reinventing the wheel I would use the existing projects as reference
+and then add the features that I wanted.&lt;/p&gt;
+
+&lt;p&gt;Many of the existing projects detected if Google Chrome was open, however I wanted something more specific. I modified my
+version to further detected which websites were open. I added detection support for popular websites such as YouTube,
+Google Docs, Google Sheets, Google Drive, Google Slides, GitHub, and as a default if the user is on a website that I didn’t
+add support for it simply displays Google Chrome.&lt;/p&gt;
+
+&lt;p&gt;Examples of this application in use are below:&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img src=&quot;/_pages/assets/images/ChromeRP.png&quot; width=&quot;315&quot; alt=&quot;socials2&quot; /&gt;
+&lt;img src=&quot;/_pages/assets/images/GoogleDocsRP.png&quot; width=&quot;312&quot; alt=&quot;socials3&quot; /&gt;
+&lt;img src=&quot;/_pages/assets/images/GitHubRP.png&quot; width=&quot;306&quot; alt=&quot;socials4&quot; /&gt;
+&lt;img src=&quot;/_pages/assets/images/YoutubeRP.png&quot; width=&quot;315&quot; alt=&quot;socials5&quot; /&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">The first project I will talk about is a Discord rich presence application. For those unfamiliar with Discord, it is a social media application that allows you to communicate with other people. It is most similar to Skype except it is a lot more customizable. One feature that Discord has is that if you allow it to, Discord will detect what application is currently open on your computer and will display it under your account so other people know what you are currently doing. This opens up many opportunities for developers as they can create their own custom displays for specific applications.</summary></entry><entry><title type="html">Welcome to My Website!</title><link href="http://localhost:4000/jekyll/update/2021/05/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to My Website!" /><published>2021-05-14T15:21:48-05:00</published><updated>2021-05-14T15:21:48-05:00</updated><id>http://localhost:4000/jekyll/update/2021/05/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/05/14/welcome-to-jekyll.html">&lt;p&gt;My motivation for creating this website stemmed from my curiosity and desire to expand my programming knowledge. Prior
+to this project I had created multiple applications in different languages such as Java, Python, and C++. However, I also
+wanted to experience web development and wasn’t sure if schooling would ever touch on the area. I decided to take matter
+into my own hands by doing my own research and projects.&lt;/p&gt;
+
+&lt;p&gt;This website is built using Jekyll which means I didn’t have to completely start from scratch. Through research online I 
+learned how to utilize Jekyll to efficiently develop a website. Another positive was Jekyll is very compatible with 
+GitHub Pages which allows developers to easily host their websites for free. Although this website is a bit basic, it’s 
+my very first one! In the future I will likely add to this website as I learn more.&lt;/p&gt;
+
+&lt;p&gt;There are two locations on this website where you can read about the different projects that I have done. Under the Pursued
+Projects tab you can read summarizes of these projects and what languages they were done in. On the home page I have 
+different articles for each project where I go into more detail about the specific project.&lt;/p&gt;
+
+&lt;p&gt;Many of the projects displayed are old. I had a lot more free time throughout high school as opposed to college. Much of the
+source code for these projects do not follow standard conventions and are quite a mess to look at due to my lack of knowledge
+at the time. If I ever add more recent projects the source code for them will be a lot more clean because of what I’ve learned in
+my college classes and because I have been programming longer.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">My motivation for creating this website stemmed from my curiosity and desire to expand my programming knowledge. Prior to this project I had created multiple applications in different languages such as Java, Python, and C++. However, I also wanted to experience web development and wasn’t sure if schooling would ever touch on the area. I decided to take matter into my own hands by doing my own research and projects.</summary></entry></feed>
