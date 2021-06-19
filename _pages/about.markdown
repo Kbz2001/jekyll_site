@@ -7,7 +7,7 @@ permalink: /about/
 Welcome to my website! My name is Kile and I am an aspiring computer engineer with a passion for programming.
 
 <div>
-<img src="/images/a&m_image.png" width="250"  alt="university" style="float:right; padding-left:25px;"  /> 
+<img src="/_pages/assets/images/a&m_image.png" width="250"  alt="university" style="float:right; padding-left:25px;"  /> 
 </div>
 
 I currently attend Texas A&M University and am studying to achieve a bachelor's degree in computer engineering.
@@ -18,7 +18,7 @@ Throughout this website you will see many personal projects that I have done, as
 the variety of programming languages that I have learned throughout the years. 
 
 <div>
-<img src="/images/socials.png" width="350" alt="socials" style="float:right; padding-left:25px;" />
+<img src="/_pages/assets/images/socials.png" width="350" alt="socials" style="float:right; padding-left:25px;" />
 </div>
 
 Social Medias:

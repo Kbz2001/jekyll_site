@@ -26,10 +26,10 @@ adding support for other websites.
 </span>
 
 <div>
-<img src="/images/ChromeRP.png" width="315" alt="socials2" />
-<img src="/images/GoogleDocsRP.png" width="312" alt="socials3" />
-<img src="/images/GitHubRP.png" width="306" alt="socials4" />
-<img src="/images/YoutubeRP.png" width="315" alt="socials5" />
+<img src="/_pages/assets/images/ChromeRP.png" width="315" alt="socials2" />
+<img src="/_pages/assets/images/GoogleDocsRP.png" width="312" alt="socials3" />
+<img src="/_pages/assets/images/GitHubRP.png" width="306" alt="socials4" />
+<img src="/_pages/assets/images/YoutubeRP.png" width="315" alt="socials5" />
 </div>
 
 &nbsp;
@@ -50,7 +50,7 @@ that I created to learn the Discord API.
 </span>
 
 <div>
-<img src="/images/DiscordBot.png" width="704" alt="socials1" style="float:left; padding-right:25px;" />
+<img src="/_pages/assets/images/DiscordBot.png" width="704" alt="socials1" style="float:left; padding-right:25px;" />
 </div>
 
 &nbsp;
@@ -70,7 +70,7 @@ screen for the game. An image of this is shown below.
 </span> 
 
 <div>
-<img src="/images/Nostalgia.png" width="1920" alt="socials1" style="float:left; padding-right:25px;" />
+<img src="/_pages/assets/images/Nostalgia.png" width="1920" alt="socials1" style="float:left; padding-right:25px;" />
 </div>
 
 &nbsp;

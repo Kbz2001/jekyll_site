@@ -22,7 +22,7 @@ Similar to the Discord Bot project, this mod utilized multiple APIs at the same 
 Below is a comparison between the standard Minecraft main menu, and the custom one we made:
 
 <div>
-<img src="/images/MainMenu_Minceraft.png" width="854" alt="mainmenu" style="float:left; padding-right:25px;" />
+<img src="/_pages/assets/images/MainMenu_Minceraft.png" width="854" alt="mainmenu" style="float:left; padding-right:25px;" />
 &nbsp;
-<img src="/images/Nostalgia.png" width="1920" alt="nostalgiamenu" style="float:left; padding-right:25px;" />
+<img src="/_pages/assets/images/Nostalgia.png" width="1920" alt="nostalgiamenu" style="float:left; padding-right:25px;" />
 </div>
