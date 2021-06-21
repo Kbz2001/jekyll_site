@@ -23,8 +23,13 @@ add support for it simply displays Google Chrome.
 Examples of this application in use are below:
 
 <div>
-<img src="/_pages/assets/images/ChromeRP.png" width="315" alt="socials2" />
-<img src="/_pages/assets/images/GoogleDocsRP.png" width="312" alt="socials3" />
-<img src="/_pages/assets/images/GitHubRP.png" width="306" alt="socials4" />
-<img src="/_pages/assets/images/YoutubeRP.png" width="315" alt="socials5" />
+
+<img src="{{site.url}}/jekyll_site/assets/images/ChromeRP.png" width="315" alt="socials2" />
+
+<img src="{{site.url}}/jekyll_site/assets/images/GoogleDocsRP.png" width="312" alt="socials3" />
+
+<img src="{{site.url}}/jekyll_site/assets/images/GitHubRP.png" width="306" alt="socials4" />
+
+<img src="{{site.url}}/jekyll_site/assets/images/YoutubeRP.png" width="315" alt="socials5" />
+
 </div>
